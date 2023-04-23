@@ -200,7 +200,7 @@ p {
     display: flex;
     flex-direction: column;
     box-sizing: border-box;
-    border-radius: 0 0 1rem 1rem;
+    border-radius: 0 0 2rem 2rem;
     align-items: center;
 
   }
